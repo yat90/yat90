@@ -8,4 +8,6 @@
  
 #
 
+<a href="https://stackexchange.com/users/6383652"><img src="https://stackexchange.com/users/flair/6383652.png" width="208" height="58" alt="profile for YAT on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for YAT on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
+
 <a href="https://app.daily.dev/yat"><img src="https://api.daily.dev/devcards/c038db52db7a4ef8a2aaf4f880aa7529.png?r=end" width="150" alt="Yannic's Dev Card"/></a>
