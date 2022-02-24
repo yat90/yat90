@@ -9,7 +9,7 @@ Hi, my name is Yannic Abou-Taleb
  
  
 # Socials
-![Yannic's GitHub stats](https://github-readme-stats.vercel.app/api?username=yat90a&show_icons=true)
+![Yannic's GitHub stats](https://github-readme-stats.vercel.app/api?username=yat90&show_icons=true)
 
 <a href="https://stackoverflow.com/users/4952230/yat"><img src="https://stackoverflow.com/users/flair/4952230.png" width="208" height="58" alt="profile for YAT at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for YAT at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a> 
 
