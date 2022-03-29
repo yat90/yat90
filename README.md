@@ -25,4 +25,4 @@
  </h1>
 <!-- Markdown -->
 
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=onedark)
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=onedark)
