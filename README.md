@@ -24,8 +24,7 @@
  
  
  <h1 align="center">
-  Some Jokes
-</h1>
+ </h1>
 <!-- Markdown -->
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
